@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, I am Christophe
 
-<!--
-**cmendezs/cmendezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Payments product manager with 18 years across fintech, banking, and SaaS —
+currently building global payment infrastructure at Stellantis.
 
-Here are some ideas to get you started:
+I have spent my career at the intersection of complex systems and real customers
+(enterprise, SMB, and startup).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- **Payment infrastructure** — PSP-agnostic platform, multi-region deployments, Baas capabilites
+- **Enterprise implementation** — Technical onboarding, ProServ, cross-functional delivery at Stellantis, Stripe, JPMorgan
+- **Product management** — Vision, roadmap, architecture decisions, and team-building
+
+---
+
+## About me
+
+- 🏗️ Built the ePayment platform at Stellantis — AWS rebuild, 14 brands, PSP-agnostic
+- 🚀 Grew Stripe Professional Services in South Europe from the ground up
+- 🌱 Founded and scaled two businesses (France + Mexico) before joining big tech
+- 🌍 Trilingual: English, French, Spanish — lived and worked across Europe, LATAM, and the US
+
+---
+
+## I'm currently exploring
+
+Agentic AI workflows, payments + AI convergence, and what the next generation
+of financial infrastructure looks like.
+
+---
+
+*Feel free to connect on [LinkedIn](https://linkedin.com/in/christophemendez)*
