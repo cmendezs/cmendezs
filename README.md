@@ -1,6 +1,6 @@
 # 👋 Hola, I am Christophe
 
-Payments product manager with 18 years across fintech, banking, and SaaS —
+Payments product manager with 18 years across fintech, banking, and SaaS - 
 currently building global payment infrastructure at Stellantis.
 
 I have spent my career at the intersection of complex systems and real customers
@@ -10,18 +10,18 @@ I have spent my career at the intersection of complex systems and real customers
 
 ## What I work on
 
-- **Payment infrastructure** — PSP-agnostic platform, multi-region deployments, Baas capabilites
-- **Enterprise implementation** — Technical onboarding, ProServ, cross-functional delivery at Stellantis, Stripe, JPMorgan
-- **Product management** — Vision, roadmap, architecture decisions, and team-building
+- **Payment infrastructure** - PSP-agnostic platform, multi-region deployments, Baas capabilites
+- **Enterprise implementation** - Technical onboarding, ProServ, cross-functional delivery at Stellantis, Stripe, JPMorgan
+- **Product management** - Vision, roadmap, architecture decisions, and team-building
 
 ---
 
 ## About me
 
-- 🏗️ Built the ePayment platform at Stellantis — AWS rebuild, 14 brands, PSP-agnostic
+- 🏗️ Built the ePayment platform at Stellantis - AWS rebuild, 14 brands, PSP-agnostic
 - 🚀 Grew Stripe Professional Services in South Europe from the ground up
 - 🌱 Founded and scaled two businesses (France + Mexico) before joining big tech
-- 🌍 Trilingual: English, French, Spanish — lived and worked across Europe, LATAM, and the US
+- 🌍 Trilingual: English, French, Spanish - lived and worked across Europe, LATAM, and the US
 
 ---
 
