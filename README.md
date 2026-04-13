@@ -3,8 +3,7 @@
 Payments product manager with 18 years across fintech, banking, and SaaS - 
 currently building global payment infrastructure at Stellantis.
 
-I have spent my career at the intersection of complex systems and real customers
-(enterprise, SMB, and startup).
+I have spent my career closing the loop between technical innovation and customer innovation of a diverse client base, ranging from agile startups to global enterprises.
 
 ---
 
